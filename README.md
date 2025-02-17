@@ -1,1 +1,0 @@
-# bloc_pattern
